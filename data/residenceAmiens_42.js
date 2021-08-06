@@ -1,0 +1,16 @@
+var json_residenceAmiens_42 = {
+"type": "FeatureCollection",
+"name": "residenceAmiens_42",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Résidence": "Résidence étudiante Studéa Amiens Centre", "Adresse": "94 Rue du Vivier, 80000 Amiens", "Latitude": 49.894095014038037, "Longitude": 2.3098040688064896, "Surface": "de 18m² à 25m²", "Loyer Min": 499.0 }, "geometry": { "type": "Point", "coordinates": [ 2.30980406880649, 49.894095014038037 ] } },
+{ "type": "Feature", "properties": { "Résidence": "Résidence Odalys Campus Les Hortillonnages", "Adresse": "77 Rue de Verdun, 80000 Amiens", "Latitude": 49.894008106194136, "Longitude": 2.3121711111341416, "Surface": "de 17m² à 25m² ", "Loyer Min": 526.0 }, "geometry": { "type": "Point", "coordinates": [ 2.312171111134142, 49.894008106194136 ] } },
+{ "type": "Feature", "properties": { "Résidence": "Twenty Campus Amiens - Résidence étudiante", "Adresse": "50 Rue Legrand d'Aussy, 80000 Amiens", "Latitude": 49.892498015183236, "Longitude": 2.3131011447853478, "Surface": "de 14m² à 28m²", "Loyer Min": 445.0 }, "geometry": { "type": "Point", "coordinates": [ 2.313101144785348, 49.892498015183236 ] } },
+{ "type": "Feature", "properties": { "Résidence": "Résidence Etudiante La Vallée", "Adresse": "145 bis Rue Dejean, 80000 Amiens", "Latitude": 49.8906804000001, "Longitude": 2.3194225000480455, "Surface": null, "Loyer Min": 501.4 }, "geometry": { "type": "Point", "coordinates": [ 2.319422500048046, 49.890680400000065 ] } },
+{ "type": "Feature", "properties": { "Résidence": "Résidence étudiante Campus Amiens", "Adresse": "25 Rue du Blamont, 80000 Amiens", "Latitude": 49.887749317161585, "Longitude": 2.3110621957891495, "Surface": "19m²", "Loyer Min": 517.0 }, "geometry": { "type": "Point", "coordinates": [ 2.31106219578915, 49.887749317161585 ] } },
+{ "type": "Feature", "properties": { "Résidence": "Résidence étudiante Amiens - Campus Citadelle", "Adresse": "28 Place Vogel, 80000 Amiens", "Latitude": 49.898006401373138, "Longitude": 2.2961514841513977, "Surface": "de 18m² à 59m²", "Loyer Min": 486.0 }, "geometry": { "type": "Point", "coordinates": [ 2.296151484151398, 49.898006401373138 ] } },
+{ "type": "Feature", "properties": { "Résidence": "Neoresid Amiens - Saint-Germain", "Adresse": "15 Rue Pingre, 80000 Amiens", "Latitude": 49.896765068247028, "Longitude": 2.2962847264789708, "Surface": "de 14m² à 27m²", "Loyer Min": 399.0 }, "geometry": { "type": "Point", "coordinates": [ 2.296284726478971, 49.896765068247028 ] } },
+{ "type": "Feature", "properties": { "Résidence": "Le court séjour - Logement étudiant", "Adresse": "15 Rue Saint-Germain, 80000 Amiens", "Latitude": 49.896208003104213, "Longitude": 2.2961323418236583, "Surface": null, "Loyer Min": null }, "geometry": { "type": "Point", "coordinates": [ 2.296132341823658, 49.896208003104213 ] } },
+{ "type": "Feature", "properties": { "Résidence": "Résidence étudiante Nemea Amiens Beffroi", "Adresse": "29 Rue du Général Leclerc, 80000 Amiens", "Latitude": 49.895809068109891, "Longitude": 2.2935293571683459, "Surface": "de 19m² à 30m²", "Loyer Min": 484.0 }, "geometry": { "type": "Point", "coordinates": [ 2.293529357168346, 49.895809068109891 ] } }
+]
+}

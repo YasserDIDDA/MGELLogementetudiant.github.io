@@ -1,0 +1,20 @@
+var json_Crousangers_13 = {
+"type": "FeatureCollection",
+"name": "Crousangers_13",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Résidence": "Crous Angers : Résidence étudiante Belle Beille", "Adresse": "8 -10 Bd Victor Beaussier, 49000 Angers", "Latitude": 47.4696138, "Longitude": -0.6001525, "Loyer Min": 245.0 }, "geometry": { "type": "Point", "coordinates": [ -0.6001525, 47.4696138 ] } },
+{ "type": "Feature", "properties": { "Résidence": "Crous Angers : Résidence étudiante Bourgonnier", "Adresse": "19 Rue Laine Laroche, 49000 Angers", "Latitude": 47.4623965, "Longitude": -0.5409379, "Loyer Min": 233.0 }, "geometry": { "type": "Point", "coordinates": [ -0.5409379, 47.4623965 ] } },
+{ "type": "Feature", "properties": { "Résidence": "Crous Angers : Résidence étudiante Célestin Port", "Adresse": "25 Rue Celestin Port, 49000 Angers", "Latitude": 47.4663621, "Longitude": -0.5437986, "Loyer Min": 267.0 }, "geometry": { "type": "Point", "coordinates": [ -0.5437986, 47.4663621 ] } },
+{ "type": "Feature", "properties": { "Résidence": "Crous Angers : Résidence étudiante Couffon Pavot", "Adresse": "1 Rue Leon Pavot, 49000 Angers", "Latitude": 47.4659859, "Longitude": -0.5643195, "Loyer Min": 270.0 }, "geometry": { "type": "Point", "coordinates": [ -0.5643195, 47.4659859 ] } },
+{ "type": "Feature", "properties": { "Résidence": "Crous Angers : Résidence étudiante Dauversiere Ii", "Adresse": "Rue Joseph Wrezinski, 49000 Angers", "Latitude": 47.477589935699477, "Longitude": -0.58721107316946874, "Loyer Min": 300.0 }, "geometry": { "type": "Point", "coordinates": [ -0.587211073169469, 47.477589935699477 ] } },
+{ "type": "Feature", "properties": { "Résidence": "Crous Angers : Résidence étudiante Einstein", "Adresse": "30 Rue Marie Marvingt, 49000 Angers", "Latitude": 47.492728, "Longitude": -0.5717868, "Loyer Min": 331.0 }, "geometry": { "type": "Point", "coordinates": [ -0.5717868, 47.492728 ] } },
+{ "type": "Feature", "properties": { "Résidence": "Crous Angers : Résidence étudiante Faidherbe", "Adresse": "1 Rue Leon Pavot, 49000 Angers", "Latitude": 47.4659859, "Longitude": -0.5643195, "Loyer Min": 285.0 }, "geometry": { "type": "Point", "coordinates": [ -0.5643195, 47.4659859 ] } },
+{ "type": "Feature", "properties": { "Résidence": "Crous Angers : Résidence étudiante Flora Tristan", "Adresse": "1 A 5 Square Flora Tristan, 49000 Angers", "Latitude": 47.4686553, "Longitude": -0.5978384, "Loyer Min": 309.0 }, "geometry": { "type": "Point", "coordinates": [ -0.5978384, 47.4686553 ] } },
+{ "type": "Feature", "properties": { "Résidence": "Crous Angers : Résidence étudiante La Madeleine", "Adresse": "21 Rue Laine Laroche, 49000 Angers", "Latitude": 47.4622695, "Longitude": -0.5411222, "Loyer Min": 275.0 }, "geometry": { "type": "Point", "coordinates": [ -0.5411222, 47.4622695 ] } },
+{ "type": "Feature", "properties": { "Résidence": "Crous Angers : Résidence étudiante Lakanal", "Adresse": "25 Rue Lamarck, 49000 Angers", "Latitude": 47.4154531, "Longitude": -0.5227607, "Loyer Min": 234.0 }, "geometry": { "type": "Point", "coordinates": [ -0.5227607, 47.4154531 ] } },
+{ "type": "Feature", "properties": { "Résidence": "Crous Angers : Résidence étudiante Les Hauts De St Aubin", "Adresse": "116 Boulevard Avenue Jean Moulin, 49000 Angers", "Latitude": 47.4456687, "Longitude": -0.4930809, "Loyer Min": 311.0 }, "geometry": { "type": "Point", "coordinates": [ -0.4930809, 47.4456687 ] } },
+{ "type": "Feature", "properties": { "Résidence": "Crous Angers : Résidence étudiante René Rouchy", "Adresse": "3 Rue Rene Rouchy, 49000 Angers", "Latitude": 47.4790684, "Longitude": -0.5473797, "Loyer Min": 308.0 }, "geometry": { "type": "Point", "coordinates": [ -0.5473797, 47.4790684 ] } },
+{ "type": "Feature", "properties": { "Résidence": "Crous Angers : Résidence étudiante Volta", "Adresse": "10 Rue Lakanal, 49000 Angers", "Latitude": 47.478303430858325, "Longitude": -0.60178683083973006, "Loyer Min": 346.0 }, "geometry": { "type": "Point", "coordinates": [ -0.60178683083973, 47.478303430858325 ] } }
+]
+}
